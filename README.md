@@ -1,3 +1,4 @@
+## About
 This is my public thought space about everything related to data engineering, analytics, and running a successful data-driven company. The website URL is https://publish.obsidian.md/datadriven.
 
 [Here](https://publish.obsidian.md/datadriven/About) you can read about the website structure and its philosophy.
