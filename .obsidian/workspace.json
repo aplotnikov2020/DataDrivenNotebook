@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "86929f5a6f0ee098",
+    "type": "split",
+    "children": [
+      {
+        "id": "783266b18956f040",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03636e8acb52707e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Business Analytics/Metrics/Input Metric.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31f52995638838da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "About.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a045dc3e5d028e23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Posts/Awesome MAD Glossaries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b07cb258d1b26a24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Business Analytics/Decision Intelligence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cd3066d202dc2f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Miscellaneous/MAD (Machine Learning, AI and Data).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bf5bd6a9be94165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Business Analytics/Metrics/Input Metric.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "983457f6c60b3601",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4026f489143ebaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b9bb5237f36e424",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "51c2b1ce93897c02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "92fe6cec726306a8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d9decfc2cd96aa4",
+    "type": "split",
+    "children": [
+      {
+        "id": "bac627c87f039309",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a76435fa2a872cf5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Posts/Awesome MAD Glossaries.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc13205fc7d3b455",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Posts/Awesome MAD Glossaries.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d0df1fd942692f8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a0bbf9ab1fc2a6e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Posts/Awesome MAD Glossaries.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes": false
+    }
+  },
+  "active": "a045dc3e5d028e23",
+  "lastOpenFiles": [
+    "Concepts/Business Analytics/Decision Intelligence.md",
+    "Concepts/Business Analytics/Metrics/Input Metric.md",
+    "About.md",
+    "Posts/Awesome MAD Glossaries.md",
+    "Concepts/Miscellaneous/MAD (Machine Learning, AI and Data).md",
+    "Concepts/Business Analytics/Decision Intelligence/Sisu (The Decision Intelligence Engine).md",
+    "Concepts/Business Analytics/Metrics/Business Metric.md",
+    "Concepts/Business Analytics/Metrics/Output Metric.md",
+    "README.md"
+  ]
+}
