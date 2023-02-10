@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "03636e8acb52707e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Business Analytics/Metrics/Input Metric.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31f52995638838da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "About.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a045dc3e5d028e23",
             "type": "leaf",
             "state": {
@@ -44,7 +20,19 @@
             }
           },
           {
-            "id": "b07cb258d1b26a24",
+            "id": "92b900a6c075bbaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Business Analytics/Metrics/Informative Business Metric.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db54053ec80578a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,31 +44,18 @@
             }
           },
           {
-            "id": "9cd3066d202dc2f2",
+            "id": "c03969cc3a5e68c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Miscellaneous/MAD (Machine Learning, AI and Data).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bf5bd6a9be94165",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Business Analytics/Metrics/Input Metric.md",
+                "file": "Posts/Awesome MAD Glossaries.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,14 +185,15 @@
   },
   "active": "a045dc3e5d028e23",
   "lastOpenFiles": [
-    "Concepts/Business Analytics/Decision Intelligence.md",
+    "Concepts/Business Analytics/Metrics/Active Users (DAU, WAU, MAU) Mertrics.md",
+    "Concepts/Business Analytics/Metrics/Informative Business Metric.md",
     "Concepts/Business Analytics/Metrics/Input Metric.md",
-    "About.md",
+    "Concepts/Business Analytics/Decision Intelligence.md",
     "Posts/Awesome MAD Glossaries.md",
+    "Concepts/Business Analytics/Metrics/Daily Active Users (DAU) Metric.md",
     "Concepts/Miscellaneous/MAD (Machine Learning, AI and Data).md",
+    "About.md",
     "Concepts/Business Analytics/Decision Intelligence/Sisu (The Decision Intelligence Engine).md",
-    "Concepts/Business Analytics/Metrics/Business Metric.md",
-    "Concepts/Business Analytics/Metrics/Output Metric.md",
-    "README.md"
+    "Concepts/Business Analytics/Metrics/Business Metric.md"
   ]
 }
