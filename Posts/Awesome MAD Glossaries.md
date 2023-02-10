@@ -10,6 +10,7 @@ General business analytics:
 * [90+ KPI examples to keep your company on track](https://www.geckoboard.com/best-practice/kpi-examples/) contains high-quality definitions of 90+ metrics with detailed explanations and calculation formula. Provided by the Geckoboard team.
 * [Pendo Glossary](https://www.pendo.io/glossary/) "A repository of acronyms, jargon, and useful words for product and customer teams," defining terms like Customer churn, Customer retention, Net Promoter Score (NPS), Product Engagement Score (PES), Product-led growth, etc.
 * [Sisu Glossary](https://sisudata.com/glossary) contains advanced analytics and Decision Intelligence terms related to [The Sisu Decision Intelligence Engine](https://sisudata.com/product).
+* [Chartio Data Tutorials](https://chartio.com/learn/tutorials/) contain in-depth explanations for various BI and ETL-related concepts, but they were not updated after March 2022. See also [Chartio Data Glossary](https://chartio.com/docs/data-glossary/) 
 
 Analytics for security:
 * [DevOps and Security Glossary Terms](https://www.sumologic.com/glossary/) contains amazingly detailed explanations of terms like Root cause analysis, Predictive analytics, Observability, etc., provided by the Sumo Logic team.
