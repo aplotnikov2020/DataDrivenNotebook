@@ -12,6 +12,7 @@ The steps to compute active users can be deceptively simple, but can become comp
 * DAU = Conversion * DBU
 * DAU of new users = DAU of new organic users + DAU of new users from the marketing campaigns
 * DAU of returning users = DAU of returning users by retargeting marketing campaigns + DAU of organically returned users
+* DAU  = 0.01 * MAU * Stickness. See [What is an active user?](https://www.adjust.com/glossary/active-user#what-are-the-most-commonly-used-measurement-periods-for-an-active-user)
 
 ## Mathematical properties
 * Non-cumulative, so WAU can't be computed on top of DAU.
