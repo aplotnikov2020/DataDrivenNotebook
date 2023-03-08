@@ -4,55 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "783266b18956f040",
+        "id": "238c1bb323c985c6",
         "type": "tabs",
         "children": [
           {
-            "id": "a045dc3e5d028e23",
+            "id": "d90a3dddd1a1d5e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Posts/Awesome MAD Glossaries.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92b900a6c075bbaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Business Analytics/Metrics/Informative Business Metric.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db54053ec80578a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Business Analytics/Decision Intelligence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c03969cc3a5e68c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Posts/Awesome MAD Glossaries.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -121,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Posts/Awesome MAD Glossaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Posts/Awesome MAD Glossaries.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Posts/Awesome MAD Glossaries.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -183,15 +139,15 @@
       "publish:Publish changes": false
     }
   },
-  "active": "a045dc3e5d028e23",
+  "active": "d90a3dddd1a1d5e8",
   "lastOpenFiles": [
-    "Concepts/Business Analytics/Metrics/Active Users (DAU, WAU, MAU) Mertrics.md",
-    "Concepts/Business Analytics/Metrics/Informative Business Metric.md",
-    "Concepts/Business Analytics/Metrics/Input Metric.md",
-    "Concepts/Business Analytics/Decision Intelligence.md",
     "Posts/Awesome MAD Glossaries.md",
-    "Concepts/Business Analytics/Metrics/Daily Active Users (DAU) Metric.md",
+    "Concepts/Business Analytics/Decision Intelligence.md",
+    "Concepts/Business Analytics/Metrics/Informative Business Metric.md",
     "Concepts/Miscellaneous/MAD (Machine Learning, AI and Data).md",
+    "Concepts/Business Analytics/Metrics/Active Users (DAU, WAU, MAU) Mertrics.md",
+    "Concepts/Business Analytics/Metrics/Input Metric.md",
+    "Concepts/Business Analytics/Metrics/Daily Active Users (DAU) Metric.md",
     "About.md",
     "Concepts/Business Analytics/Decision Intelligence/Sisu (The Decision Intelligence Engine).md",
     "Concepts/Business Analytics/Metrics/Business Metric.md"
